@@ -1,0 +1,33 @@
+parameter,region_dataset,region_name,sum_interp_1880-2020_kg/ha,sum_const5yr_1881-2020_kg/ha
+N,Forsuringsregionene,Fjellregion - Sør-Norge,316.5846100265952,314.98394662856816
+N,Forsuringsregionene,Midt - Norge,207.8987602344691,207.25395167585637
+N,Forsuringsregionene,Nord - Norge,120.29776188457268,120.04489102645826
+N,Forsuringsregionene,Sørlandet - Vest,821.7832760817861,823.8969890382131
+N,Forsuringsregionene,Sørlandet - Øst,754.7824684779841,754.8437106086382
+N,Forsuringsregionene,Vestlandet - Nord,395.2032676950425,394.31403479178135
+N,Forsuringsregionene,Vestlandet - Sør,580.9871954695749,579.6219398044608
+N,Forsuringsregionene,Øst - Finnmark,95.04679252420001,95.00608850308988
+N,Forsuringsregionene,Østlandet - Nord,286.0917747754302,285.5006950056615
+N,Forsuringsregionene,Østlandet - Sør,547.2205462597902,548.8360754194363
+N,Heleen_aggregated,East,444.4670339437246,445.2142680605973
+N,Heleen_aggregated,Middle,207.8987602344691,207.25395167585637
+N,Heleen_aggregated,Mountains,316.5846100265952,314.98394662856816
+N,Heleen_aggregated,North,118.67041058051957,118.43121325604055
+N,Heleen_aggregated,South,775.3018025841279,775.9916242218558
+N,Heleen_aggregated,West,454.1776601227452,453.1373207513502
+S,Forsuringsregionene,Fjellregion - Sør-Norge,465.3434490809521,461.6768376169198
+S,Forsuringsregionene,Midt - Norge,271.64912162516134,269.64763606698233
+S,Forsuringsregionene,Nord - Norge,164.59192380434942,163.9635379250205
+S,Forsuringsregionene,Sørlandet - Vest,1352.8116130592239,1343.3198055197865
+S,Forsuringsregionene,Sørlandet - Øst,1149.3536926578756,1142.2895101984893
+S,Forsuringsregionene,Vestlandet - Nord,643.2902717564527,638.6558371935793
+S,Forsuringsregionene,Vestlandet - Sør,950.2610709266211,942.59407179796
+S,Forsuringsregionene,Øst - Finnmark,151.03328220430504,151.1692897735328
+S,Forsuringsregionene,Østlandet - Nord,348.1151377298215,346.0587560971145
+S,Forsuringsregionene,Østlandet - Sør,712.72119671817,710.4176798905677
+S,Heleen_aggregated,East,569.2496330149136,567.0433632625686
+S,Heleen_aggregated,Middle,271.64912162516134,269.64763606698233
+S,Heleen_aggregated,Mountains,465.3434490809521,461.6768376169198
+S,Heleen_aggregated,North,163.71810891137952,163.13898595964616
+S,Heleen_aggregated,South,1211.663703455709,1203.8560486131753
+S,Heleen_aggregated,West,740.7336652241446,735.136587364257
